@@ -11,7 +11,6 @@ growth mindset |embraces |persists
 fixed mindset |avoids |loses focus 
 
 for some info visit [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
 :sweat_smile:
 
 good day
