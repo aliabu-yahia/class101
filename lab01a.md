@@ -18,11 +18,3 @@ this some way to keep yourself in a growth mindset
 4. the internet is very useful thing to sove problem
 
 for some info visit [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-intro
-
-My mane is ali khames I study mechanical engineering in Al- Balqa' Applied University and graduate in 2019 I prefer play chess and read some book in my free time .
-
-lab no | link
------|-----
-lab01a | [link](lab01a.md)
