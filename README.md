@@ -14,4 +14,4 @@ for some info visit [growth mindset](https://www.atlassian.com/blog/inside-atlas
 
 :sweat_smile:	
 good day
-![
+
