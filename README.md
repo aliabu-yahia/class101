@@ -10,8 +10,13 @@ when faced with |challenges|obstacles
 growth mindset |embraces |persists
 fixed mindset |avoids |loses focus 
 
-for some info visit [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-:sweat_smile:
+this some way to keep yourself in a growth mindset
 
-good day
+1. try to solve the prblem in another time
+2. do not giveup from the first try
+3. ask someone who has the same probem
+4. the internet is very useful thing to sove problem
+
+for some info visit [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
 
