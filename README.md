@@ -7,5 +7,5 @@ My mane is ali khames I study mechanical engineering in Al- Balqa' Applied Unive
 lab no | link
 -----|-----
 lab01a | [link](lab01a.md)
-lab05a | [link](Read: 05 - Operators and Loops.md)
+lab05a | [link](Read05.md)
 
