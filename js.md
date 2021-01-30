@@ -11,6 +11,6 @@ You could compare scripts to any of the following:
  - design a script
  - code each step
  
-### OPERATOR
+### OPERATORS:
  JavaScript includes operators that perform some operation on single or multiple operands and produce a result. JavaScript includes various categories of operators: Arithmetic operators, Comparison operators, Logical operators, Assignment operators, Conditional operators.
 
