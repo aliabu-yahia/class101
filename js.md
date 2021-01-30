@@ -1,3 +1,4 @@
+
 ### A script is a series of instructions that a computer can follow to achieve a goal.
 
 You could compare scripts to any of the following:
