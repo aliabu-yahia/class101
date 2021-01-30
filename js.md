@@ -5,7 +5,7 @@ You could compare scripts to any of the following:
 - HANDBOOKS
 - MANUALS
 
- ### To write a script
+ To write a script
  - define the goal
  - design a script
  - code each step
