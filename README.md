@@ -8,5 +8,6 @@ lab no | link
 -----|-----
 lab01a | [link](lab01a.md)
 read04 | [ link](js.md)
+read03a | [link](read03a.htmlP) 
 lab05a | [link](Read05.md)
 
