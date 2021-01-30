@@ -3,6 +3,7 @@ You could compare scripts to any of the following:
 - RECIPES 
 - HANDBOOKS
 - MANUALS
+
  ### To write a script
  - define the goal
  - design a script
